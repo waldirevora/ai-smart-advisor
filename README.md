@@ -14,10 +14,6 @@ Projeto acadêmico desenvolvido para a disciplina **Padrões Web Para No Code e 
 
 **Acesso público:** https://ai-smart-advisor.framer.ai
 
-## Vídeo pitch
-
-**YouTube (não listado):** https://youtu.be/BZPFye1WYjk
-
 ## Documentação acadêmica
 
 - [Parte Teórica - PDF](docs/academic/Parte_Teorica_AI_Smart_Advisor_FINAL.pdf)
